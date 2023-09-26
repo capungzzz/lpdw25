@@ -1,4 +1,4 @@
- from = "https://meek-duckanoo-113fbb.netlify.app*"
+ from = "https://meek-duckanoo-113fbb.netlify.app/*"
   to = "https://dewa88.wiki/register?ads=6512FBA8D6243&adType=Ads"
   status = 301
   force = true
